@@ -1,0 +1,6 @@
+project: code-terror/encoding_rs
+target: fuzz_encodings
+
+cmds:
+  - cmd: ./fuzz_encodings
+    libfuzzer: true
