@@ -5,7 +5,7 @@
 [![docs.rs](https://docs.rs/encoding_rs/badge.svg)](https://docs.rs/encoding_rs/)
 
 encoding_rs an implementation of the (non-JavaScript parts of) the
-[Encoding Standard](https://encoding.spec.whatwg.org/) written in Rust
+[Encoding Standard](https://encoding.spec.whatwg.org/) written in Rust.
 
 The Encoding Standard defines the Web-compatible set of character encodings,
 which means this crate can be used to decode Web content. encoding_rs is
