@@ -1,4 +1,4 @@
-project: code-terror/encoding_rs
+project: encoding_rs
 target: fuzz_labels
 
 cmds:
